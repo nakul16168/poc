@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/nakul16168/poc.git"
   },
+  "publishConfig": {
+   "@nakul16168:registry": "https://npm.pkg.github.com"
+ },
   "keywords": [
     "poc"
   ],
