@@ -1,0 +1,22 @@
+{
+  "name": "@nakul16168/poc",
+  "version": "1.0.0",
+  "description": "poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nakul16168/poc.git"
+  },
+  "keywords": [
+    "poc"
+  ],
+  "author": "nakul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nakul16168/poc/issues"
+  },
+  "homepage": "https://github.com/nakul16168/poc#readme"
+}
